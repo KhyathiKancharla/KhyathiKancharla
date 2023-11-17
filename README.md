@@ -1,6 +1,8 @@
 ### Hey, I'm Khyathi!
 I'm pursuing my bachelor's degree in Computer Science and Engineering, specializing in Data Science and Big Data Analysis. I like to explore new technologies 
 
+[![An image of @khyathikancharla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khyathikancharla)](https://holopin.io/@khyathikancharla)
+
 **About me**
 - 💼 FrontEnd Developer at [Segura Invendors](https://segurainvendors.com/)
 
